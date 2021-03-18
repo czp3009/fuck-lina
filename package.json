@@ -1,0 +1,14 @@
+{
+  "name": "fuckLina",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "await-delay": "^1.0.0",
+    "binance-api-node": "^0.10.34",
+    "node-global-proxy": "^1.0.1"
+  }
+}
